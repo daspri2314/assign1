@@ -1,0 +1,66 @@
+.banner{
+   width: 90%;
+  /*height: 100vh;*/
+    
+   border-radius: 16px;
+   padding:30px 50px ;
+
+}
+#banner-content{
+    margin-top:-400px;
+    margin-left: 100px;
+    
+
+}
+#ban {
+    color:white;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-right: 100px;
+
+}
+#down{
+    color:white;
+
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+font-style: normal;
+font-weight: 80%;
+line-height: 70px; /* 131.944% */
+width: 400px;
+margin-left: 300px;
+
+}
+#dis{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin top: 300px;
+}
+.banner2{
+margin-left: 350px;
+width: 450px;
+}
+.top{
+    margin-top: 500px;
+
+}
+.line {
+    border: none; /* Remove default border */
+    border-top: 2px solid #000; /* Adjust the width and color of the line */
+    width: 100%; /* Adjust the width of the line */
+    /* Other optional styles */
+    margin-top: 20px; /* Space above the line */
+    margin-bottom: 20px; /* Space below the line*/
+}
