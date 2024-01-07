@@ -1,3 +1,9 @@
+.bannerp{
+   background-image:url(images/Banner\ Image.png); 
+   width: 1320px;
+   height: 600px;
+
+}
 .banner{
    width: 90%;
   /*height: 100vh;*/
@@ -23,6 +29,7 @@ font-weight: 400;
 line-height: normal;
 margin-right: 100px;
 
+
 }
 #down{
     color:white;
@@ -38,6 +45,7 @@ margin-left: 300px;
 
 }
 #dis{
+    margin-top:200px;
     color: #F00;
 
 text-align: center;
@@ -46,14 +54,38 @@ font-size: 88px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
-margin top: 300px;
+
+
+}
+#hd2{
+    color: #F00;
+
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+#hd3{
+    margin-top: -10px;
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
 }
 .banner2{
-margin-left: 350px;
+    margin-top: -500;
+margin-left: 380px;
 width: 450px;
 }
 .top{
-    margin-top: 500px;
+    margin-top: -17px;
 
 }
 .line {
